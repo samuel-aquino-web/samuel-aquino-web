@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou Samuel Aquino 👋
 
-<!--
-**samuel-aquino-web/samuel-aquino-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web focado em criar sites profissionais, rápidos e responsivos para pequenos negócios.
 
-Here are some ideas to get you started:
+## O que eu faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Landing pages para apresentar serviços e gerar contatos
+- Sites institucionais claros e adaptados para celular
+- Páginas de vendas com estrutura objetiva
+- Manutenção e melhoria de sites existentes
+
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+- Design responsivo
+
+## Projetos
+
+Estou organizando aqui projetos de estudo e demonstrações comerciais. Cada projeto terá uma descrição clara do objetivo, das decisões de desenvolvimento e do resultado final.
+
+## Vamos conversar?
+
+Se você precisa de um site para apresentar seu negócio com profissionalismo, acompanhe meus projetos por aqui.
