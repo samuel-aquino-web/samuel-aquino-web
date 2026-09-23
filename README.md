@@ -1,26 +1,23 @@
 # Olá, eu sou Samuel Aquino 👋
 
-Desenvolvedor web focado em criar sites profissionais, rápidos e responsivos para pequenos negócios.
+Crio sites responsivos para pequenos negócios, com foco em apresentar bem o que eles fazem e facilitar o contato com clientes.
 
-## O que eu faço
+[Conheça meu portfólio](https://portfolio-samuel-aquino.netlify.app)
 
-- Landing pages para apresentar serviços e gerar contatos
-- Sites institucionais claros e adaptados para celular
-- Páginas de vendas com estrutura objetiva
-- Manutenção e melhoria de sites existentes
+## Projetos autorais
 
-## Tecnologias
+- [Vértice Barbearia](https://portfolio-samuel-aquino.netlify.app/demonstracoes/01-barbearia-vertice/) — apresentação de serviços e fluxo demonstrativo de agendamento.
+- [Forno 82](https://portfolio-samuel-aquino.netlify.app/demonstracoes/02-pizzaria-forno82/) — cardápio interativo para uma pizzaria fictícia.
+- [Linha Clara](https://portfolio-samuel-aquino.netlify.app/demonstracoes/03-arquitetura-linha-clara/) — portfólio editorial para um estúdio fictício.
 
-- HTML5
-- CSS3
-- JavaScript
-- Git e GitHub
-- Design responsivo
+Esses três projetos são demonstrações autorais; não representam clientes ou resultados comerciais.
 
-## Projetos
+## Como posso ajudar
 
-Estou organizando aqui projetos de estudo e demonstrações comerciais. Cada projeto terá uma descrição clara do objetivo, das decisões de desenvolvimento e do resultado final.
+Minha oferta inicial, o Site Essencial, é uma página de até cinco blocos para apresentar um negócio, organizar informações importantes e levar o visitante ao canal de contato. O escopo é definido em conversa antes de começar.
+
+Trabalho com HTML, CSS e JavaScript e reviso as páginas em celular, tablet e computador.
 
 ## Vamos conversar?
 
-Se você precisa de um site para apresentar seu negócio com profissionalismo, acompanhe meus projetos por aqui.
+Se você quer entender se uma página própria faz sentido para o seu negócio, [veja os projetos e fale comigo pelo portfólio](https://portfolio-samuel-aquino.netlify.app/#contato).
